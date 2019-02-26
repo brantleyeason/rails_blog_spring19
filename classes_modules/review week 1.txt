@@ -1,0 +1,46 @@
+# Hashes
+  hast = { 1 }
+
+  # Methods
+
+  def Method_end
+
+  end 
+
+  Def method_end(ags, args)
+
+  end 
+
+  method_end (params, params)
+
+
+  # gems
+  coding libraries
+  ruby gems
+  most of the gems are modules
+
+
+class
+  classes act as blueprints
+
+modules 
+  modules are places where you can use blocks of code
+
+oop
+  object oriented program
+  we treat everything as an object
+
+inheritance
+  what a parent has a child will have also
+  parent to child relationshionship
+  inherit from a sinlge parent
+  only goes from parent to child not child to parent
+
+Encapsulation 
+  pertains to a class
+  bundles data with the methods that uses the data
+
+Polymorphism
+  pertains to a class 
+  objects can take many forms
+
